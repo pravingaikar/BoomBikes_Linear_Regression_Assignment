@@ -4,8 +4,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Contact](#contact)
 * [Conclusion](#Conclusion)
+* [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
